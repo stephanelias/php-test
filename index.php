@@ -1,3 +1,3 @@
 <?php
-echo"Hello World, PHP is working with Qoddi!";
+echo"Hello World, PHP is working with Qoddi! Man";
 ?>
